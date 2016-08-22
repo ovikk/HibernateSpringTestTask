@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FirtHibernateSpringProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javarush-testtask.war">
+      <element id="artifact" artifact-name="FirtHibernateSpringProject:war exploded" />
+    </root>
+  </artifact>
+</component>
